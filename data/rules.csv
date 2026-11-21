@@ -1,0 +1,4 @@
+rule_id,event_type,clock_effect,valid_from,review_state
+T-1,dispatch,pending_acceptance,2026-01-01,approved
+T-2,need_info,review_required,2026-01-01,draft
+T-3,transfer,continuous,2026-01-01,approved
