@@ -1,0 +1,12 @@
+event,task,kind,reference,department,at
+a1,u1,resident_request,rq1,综治,2026-06-08T10:00
+a2,u1,resident_received,rq1,综治,2026-06-08T13:45
+a3,u2,internal_request,rq2,物业,2026-06-08T10:30
+a4,u2,handoff_sent,h1,综治,2026-06-08T11:30
+a5,u2,handoff_rejected,h1,综治,2026-06-08T13:05
+a6,u2,handoff_sent,h2,施工,2026-06-08T13:10
+a7,u2,handoff_accepted,h2,施工,2026-06-08T13:50
+a8,u1,complete,,综治,2026-06-08T14:30
+a9,u2,complete,,施工,2026-06-08T14:05
+a10,u3,complete,,施工,2026-06-08T16:00
+a11,u4,complete,,物业,2026-06-10T11:10

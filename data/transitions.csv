@@ -1,5 +1,0 @@
-event_id,request_id,from_owner,to_owner,event_type,occurred_at,accepted_at
-E-1,R-1,grid,dept-A,dispatch,2026-01-02T11:00:00,2026-01-03T09:00:00
-E-2,R-1,dept-A,dept-B,transfer,2026-01-04T10:00:00,2026-01-04T13:00:00
-E-3,R-2,grid,dept-C,dispatch,2026-01-03T12:00:00,
-E-4,R-3,grid,resident,need_info,2026-01-05T10:00:00,2026-01-06T16:00:00
